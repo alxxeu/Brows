@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Brows</title>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Sun, 01 Nov 2026 04:04:02 +0700</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/alxxeu/Brows/releases/download/v0.1.1-alpha/Brows.dmg" length="168221067" type="application/octet-stream" sparkle:edSignature="xLMyM7qPMB9oY9/42QmU13gmKOEzLQnWT/SGW4vJ0l8+HwmZbaA53WtfKrsZL6wfZDovqDNBOHdPxvVY8mZCDQ=="/>
+        </item>
+    </channel>
+</rss>
