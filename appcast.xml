@@ -3,6 +3,15 @@
     <channel>
         <title>Brows</title>
         <item>
+            <title>0.1.4</title>
+            <pubDate>Sat, 07 Nov 2026 03:19:01 +0700</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/alxxeu/Brows/releases/download/v0.1.4-alpha/Brows.dmg" length="168553165" type="application/octet-stream" sparkle:edSignature="CYutO8mlS/5DE0pnhHH/uRFavKsPAGAVBZct+ISTq++7LB7FF0i0nlsyJPU9Qn3I88vehyJssojyJNxXgp8LCw=="/>
+        </item>
+        <item>
             <title>0.1.3</title>
             <pubDate>Fri, 06 Nov 2026 23:30:33 +0700</pubDate>
             <sparkle:version>3</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/alxxeu/Brows/releases/download/v0.1.2-alpha/Brows.dmg" length="168473860" type="application/octet-stream" sparkle:edSignature="xIKfcvUq5TG1WQo5HuYRLGhzD0cv9+ZBJo9Cgh/Bg7phjNgPRqMEWTHhr7kNy4Nq47X/OpkGYiJFjTEp8eiMBg=="/>
-        </item>
-        <item>
-            <title>0.1.1</title>
-            <pubDate>Sun, 01 Nov 2026 04:04:02 +0700</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/alxxeu/Brows/releases/download/v0.1.1-alpha/Brows.dmg" length="168221067" type="application/octet-stream" sparkle:edSignature="xLMyM7qPMB9oY9/42QmU13gmKOEzLQnWT/SGW4vJ0l8+HwmZbaA53WtfKrsZL6wfZDovqDNBOHdPxvVY8mZCDQ=="/>
         </item>
     </channel>
 </rss>
