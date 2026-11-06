@@ -21,7 +21,7 @@ Download `Brows.dmg` from the latest release, open it and drag Brows to Applicat
 ## Limitations
 - No password manager or autofill, no private windows, one window
 - No passkey support yet
-- No phishing or malware warnings (Safe Browsing)
+- Safe Browsing warns about known phishing and malware sites; downloaded files are not scanned
 
 ## Problems and questions
 - Bugs and ideas: open an [issue](../../issues)
