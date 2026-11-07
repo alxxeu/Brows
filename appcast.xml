@@ -3,6 +3,15 @@
     <channel>
         <title>Brows</title>
         <item>
+            <title>0.1.8</title>
+            <pubDate>Sat, 07 Nov 2026 22:40:24 +0700</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/alxxeu/Brows/releases/download/v0.1.8-alpha/Brows.dmg" length="150836618" type="application/octet-stream" sparkle:edSignature="G/R8pp/c7t5AmbnCKNrXW//wUubmfzMURskFazX2QgS//HU4wG0ffS1Lil9PcnynG1/PX8qg8JLUJTwcTF2KAw=="/>
+        </item>
+        <item>
             <title>0.1.7</title>
             <pubDate>Sat, 07 Nov 2026 20:03:13 +0700</pubDate>
             <sparkle:version>7</sparkle:version>
