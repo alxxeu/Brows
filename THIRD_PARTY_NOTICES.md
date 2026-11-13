@@ -1,6 +1,6 @@
 # Third-party notices
 
-holoholo includes the following components. Their full license texts are below and in the app (Settings → About).
+Holoholo includes the following components. Their full license texts are below and in the app (Settings → About).
 
 ## Chromium
 
@@ -42,7 +42,7 @@ Chromium and the libraries it includes are distributed under their own licenses;
 
 ## Tiller (CEF patches for extension support)
 
-holoholo's patched CEF builds on [Tiller](https://github.com/sorrycc/Tiller).
+Holoholo's patched CEF builds on [Tiller](https://github.com/sorrycc/Tiller).
 
 ```
 MIT License

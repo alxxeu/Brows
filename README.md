@@ -1,6 +1,6 @@
-# holoholo
+# Holoholo
 
-holoholo is a native macOS browser written in fast Swift and powered by Chromium. It is quick, modern and carefully thought through: tabs live in a sidebar and are organized into Spaces, so work, study and personal browsing stay apart. Pages are rendered by Chromium, so websites behave as they do in Chrome, and extensions from the Chrome Web Store work.
+Holoholo is a native macOS browser written in fast Swift and powered by Chromium. It is quick, modern and carefully thought through: tabs live in a sidebar and are organized into Spaces, so work, study and personal browsing stay apart. Pages are rendered by Chromium, so websites behave as they do in Chrome, and extensions from the Chrome Web Store work.
 
 **Alpha, closed test.** New builds appear on the [Releases](../../releases) page, and the app updates itself.
 
@@ -9,7 +9,7 @@ holoholo is a native macOS browser written in fast Swift and powered by Chromium
 - Mac with Apple Silicon (M1 or newer)
 
 ## Install
-Download `holoholo.dmg` from the latest release, open it and drag holoholo to Applications. The app is signed with a Developer ID certificate and notarized by Apple.
+Download `holoholo.dmg` from the latest release, open it and drag Holoholo to Applications. The app is signed with a Developer ID certificate and notarized by Apple.
 
 ## What makes it different
 - **Tabs live in the sidebar**, grouped into Spaces. Swipe with two fingers to flip between Spaces, each one remembers its last tab.
