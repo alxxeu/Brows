@@ -1,6 +1,6 @@
 # Third-party notices
 
-Brows includes the following components. Their full license texts are below and in the app (Settings → About).
+holoholo includes the following components. Their full license texts are below and in the app (Settings → About).
 
 ## Chromium
 
@@ -42,7 +42,7 @@ Chromium and the libraries it includes are distributed under their own licenses;
 
 ## Tiller (CEF patches for extension support)
 
-Brows's patched CEF builds on [Tiller](https://github.com/sorrycc/Tiller).
+holoholo's patched CEF builds on [Tiller](https://github.com/sorrycc/Tiller).
 
 ```
 MIT License
