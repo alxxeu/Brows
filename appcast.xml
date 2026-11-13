@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Brows</title>
+        <title>holoholo</title>
         <item>
             <title>0.1.11</title>
             <pubDate>Fri, 13 Nov 2026 05:00:48 +0700</pubDate>
@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/alxxeu/Brows/releases/download/v0.1.11-alpha/holoholo.dmg" length="153643583" type="application/octet-stream" sparkle:edSignature="dzMK4d88KObbPqs35K78ZupbDPaRxWp28KjXHrb/EmmeLpqG61xZ3rgpNqelj8fhwiXMaI4tuow1+kHEBFZGBw=="/>
+            <enclosure url="https://github.com/alxxeu/holoholo/releases/download/v0.1.11-alpha/holoholo.dmg" length="153643583" type="application/octet-stream" sparkle:edSignature="dzMK4d88KObbPqs35K78ZupbDPaRxWp28KjXHrb/EmmeLpqG61xZ3rgpNqelj8fhwiXMaI4tuow1+kHEBFZGBw=="/>
         </item>
         <item>
             <title>0.1.10</title>
@@ -18,7 +18,7 @@
             <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/alxxeu/Brows/releases/download/v0.1.10-alpha/Brows.dmg" length="151221362" type="application/octet-stream" sparkle:edSignature="HCKWHbMtPQcEXlwo5pSAAOlUB8yoJh34Cuf8NBycC0RdIVkDvu9JaXeEjnAsq6eYVnrJtFG4Wu0IJKFAM56nDw=="/>
+            <enclosure url="https://github.com/alxxeu/holoholo/releases/download/v0.1.10-alpha/Brows.dmg" length="151221362" type="application/octet-stream" sparkle:edSignature="HCKWHbMtPQcEXlwo5pSAAOlUB8yoJh34Cuf8NBycC0RdIVkDvu9JaXeEjnAsq6eYVnrJtFG4Wu0IJKFAM56nDw=="/>
         </item>
         <item>
             <title>0.1.9</title>
@@ -27,7 +27,7 @@
             <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/alxxeu/Brows/releases/download/v0.1.9-alpha/Brows.dmg" length="150938393" type="application/octet-stream" sparkle:edSignature="LOIlDoh8A+fPLDh2ERCIpX8wmSie8mME6mTL0+Qkvs5DO8Qz8tx3uBY+Uaj7wKLdDH1TlH+xZrlEH3s7r7muCg=="/>
+            <enclosure url="https://github.com/alxxeu/holoholo/releases/download/v0.1.9-alpha/Brows.dmg" length="150938393" type="application/octet-stream" sparkle:edSignature="LOIlDoh8A+fPLDh2ERCIpX8wmSie8mME6mTL0+Qkvs5DO8Qz8tx3uBY+Uaj7wKLdDH1TlH+xZrlEH3s7r7muCg=="/>
         </item>
     </channel>
 </rss>
