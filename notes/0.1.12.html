@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>What's new in 0.1.12 — Holoholo</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #ffffff;
+    --fg: #1c1c1e;
+    --muted: #6e6e73;
+    --accent: #2a3b77;
+    --border: #e5e5ea;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1c1c1e;
+      --fg: #f2f2f7;
+      --muted: #9a9aa0;
+      --accent: #8fa2e8;
+      --border: #3a3a3c;
+    }
+  }
+  body {
+    background: var(--bg);
+    color: var(--fg);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    line-height: 1.55;
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 48px 24px 80px;
+  }
+  h1 { font-size: 1.6rem; margin-bottom: 4px; }
+  .meta { color: var(--muted); font-size: 0.9rem; margin-bottom: 40px; }
+  h2 { font-size: 1.05rem; margin-top: 32px; margin-bottom: 8px; }
+  p { margin: 0 0 8px; }
+  ul { margin: 0; padding-left: 20px; }
+  li { margin-bottom: 8px; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  hr { border: none; border-top: 1px solid var(--border); margin: 40px 0; }
+  footer { color: var(--muted); font-size: 0.85rem; }
+</style>
+</head>
+<body>
+  <h1>What's new</h1>
+  <p class="meta">Holoholo for macOS · Version 0.1.12 · November 13, 2026</p>
+
+  <h2>New</h2>
+  <ul>
+    <li><strong>Brows is now Holoholo.</strong> New name and new icon. Agents are now called Companions, and Boosts are now called Tweaks. Your Spaces, tabs and settings stay as they were.</li>
+    <li><strong>Welcome tour.</strong> A new profile starts with a short setup: bring your browser with you, pick favorites, add an ad blocker and a password manager, choose a search engine, and make Holoholo your default browser.</li>
+    <li><strong>Import from other browsers.</strong> Bring over bookmarks, open tabs and extensions from Chrome, Brave, Edge, Vivaldi, Opera, Chromium, Dia and Firefox. From Arc you get your Spaces with their icons, pinned tabs, folders and favorites. From Safari you get your bookmarks; this needs Full Disk Access, and Holoholo shows you where to turn it on. Use File → Import from Browser… at any time.</li>
+    <li><strong>Updates in the background.</strong> A new version downloads by itself, and a small card appears under the bottom bar. Click it to install and relaunch, or collapse it to a dot next to the cube. After an update, a Welcome card links to these notes.</li>
+    <li><strong>New Settings window.</strong> Sections are now listed in a sidebar on the left.</li>
+  </ul>
+
+  <h2>Improved</h2>
+  <ul>
+    <li>Web engine updated to Chromium 156.0.8078.88, with its latest security fixes.</li>
+    <li>Command bar: the arrow keys put the selected suggestion into the search field, so you can edit it before you search.</li>
+    <li>The loading bar no longer moves when ads or embedded frames load, only when the page itself does.</li>
+  </ul>
+
+  <h2>Fixed</h2>
+  <ul>
+    <li>Leaving a fullscreen video no longer takes the whole window out of fullscreen.</li>
+    <li>An empty page in fullscreen no longer looks see-through.</li>
+    <li>The Welcome card that appears after an update opens the release notes again.</li>
+  </ul>
+
+  <hr>
+  <footer>Holoholo — a browser for macOS.</footer>
+</body>
+</html>
